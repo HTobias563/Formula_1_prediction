@@ -9,11 +9,8 @@ from plots import PlotGenerator
 plotter = PlotGenerator()
 
 
-st.title("Mein Formula 1 Dashboard")
-st.subheader("Everything you need to know")
-
-
-st.sidebar.title("Navigation")
+st.title("Driver and Construction Standings")
+st.subheader("learn more ")
 
 
 # === Abschnitt: Race Results ===
